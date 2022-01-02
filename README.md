@@ -43,13 +43,13 @@
 
 ### 📕 STATS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Razek12345&show_icons=true&locale=en&layout=compact" alt="codebit-00" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzoqc&show_icons=true&locale=en&layout=compact" alt="codebit-00" /></p>
 
-[![Renzo Quispe GitHub stats](https://github-readme-stats.vercel.app/api?username=Razek12345&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Renzo Quispe GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoqc&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Razek12345&" alt="codebit-00" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renzoqc&" alt="codebit-00" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Razek12345" alt="razek12345" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renzoqc" alt="renzoqc" /></a> </p>
 
 [website]: https://www.linkedin.com/in/renzo-quispe-cardenas-37a62a15a
 [linkedin]: https://www.linkedin.com/in/renzo-quispe-cardenas-37a62a15a
